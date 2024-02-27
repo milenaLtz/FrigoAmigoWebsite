@@ -54,7 +54,6 @@ const PremiumCards = () => {
         </div>
       </div>
     </>
-    // style={{backgroundImage: "linear-gradient(to right, #fff, #fff, #fff, #fff)", border: "2px solid #EC9A29"}}
   );
 };
 
